@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BatteryService</string>
+    <string name="start">Запуск службы</string>
+    <string name="stop">Завершить службу</string>
+</resources>
